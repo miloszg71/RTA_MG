@@ -1,1 +1,1 @@
-# RTA_MG
+# Analiza danych w czasie rzeczywistym
